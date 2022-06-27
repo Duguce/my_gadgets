@@ -18,11 +18,13 @@
 
 - **项目概况**
   - 本项目是利用机器学习方法训练已经标注好情感类别的训练数据集训练分类模型，再通过分类模型预测文本所属的情感分类。
-
 - **运行步骤**
   - 运行cutWord.py（中文文本分词）==>运行word2vec.py（词向量化）==>运行svm.py（文本分类）
-
 - **运行结果**
   - 运行代码，得到的Test Accuracy：0.90，即本次实验的预测准确率为90%
 - **其他备注**
   - 本项目使用的训练好的词向量来自于https://github.com/Embedding/Chinese-Word-Vectors
+
+
+
+**项目地址：**https://github.com/Duguce/my_gadgets/tree/main/CN-SentiAnalysis
